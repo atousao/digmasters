@@ -1,0 +1,195 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+	font-size: 40px;
+	line-height: 1.2em;
+
+}
+h2 {
+
+}
+h3 {
+	line-height: 1.4em;
+}
+
+.paragraph_article{
+	font-size: 1.3em;
+	line-height: 1.4em;
+}
+
+.display {
+	font-family: 'Playfair Display', serif;
+	font-size: 55px;
+    font-weight: 700;
+}
+
+.gray_box {
+	background-color: #f0f0f0;
+	height: 600px;
+	padding: 20px;
+}
+
+.read_more {
+	color: #ff9900;
+}
+
+.read_more:hover {
+	color: #ff9900;
+}
+
+
+.digmaster_container {
+	padding: 30px 15px;
+}
+
+#digmaster-logo {
+	font-family: 'Playfair Display', serif;
+	font-weight: 600;
+	color: #663333;
+}
+
+nav a.active{
+  font-weight: 600;
+}
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #996666;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #663333;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: #996666;
+}
+
+.homepage {
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+	margin-top: 20px;
+}
+
+.brown_line {
+	border-top: 1px solid #996666; 
+	margin-top: 30px;
+}
+
+.first_brown_line {
+	border-top: 1px solid #996666;
+}
+
+.small_article {
+	padding-top: 30px;
+}
+
+.categories {
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	text-align: center;
+}
+
+.search-icon{
+	transform: translateX(-25px) translateY(2px);
+}
+
+.grid-table{
+	display: table;
+}
+
+.filters{
+	display: table-cell;
+	width: 250px;
+	border-right: 1px solid #996666;
+	transform: translateY(-20px);
+}
+
+.filters-bg{
+	background-color: #996666;	
+	padding: 62px 20px 20px 20px;
+	
+}
+
+.filters a {
+	color: white;
+}
+
+.filter-toggle{
+	display: block;
+}
+
+.filter-toggle i{
+	float: right;
+}
+
+.article-list{
+	display: table-cell;
+	padding: 0 15px 15px;
+}
+
+ul.filters-menu{
+	margin-top: 5px;
+	padding: 0px;
+}
+
+ul.filters-menu li{
+	list-style: none;
+	margin: 0px;
+}
+
+.brown_container {
+	background-color: #663333;
+	color: white;
+	height: 100%;
+	padding: 40px;
+}
+
+.brown_container a{
+	color: white;
+	font-size: 15px;
+}	
+#footer_logo {
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.load_more{
+	background-color: white;
+	color: #663333;
+	margin: auto;
+	border: 1px solid #663333;
+	border-radius: 0px;
+	padding: 0 30px;
+	margin: 30px 40px;
+}
+.filter_type {
+	color: #996666;
+}
+
+.dropdown-menu>li>a:hover {
+    background-color: #ff9900;
+    color: white;
+}
+
+.dropdown-menu {
+	background-color: #996666;
+	color: white;
+}
+
+.dropdown-menu a{
+	color: white;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+	background-color: #996666;
+	color: white;
+}
+
+.dropdown-menu>li>a {
+	color: white;
+}
